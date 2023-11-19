@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+nav, footer{
+    background-color: #110D07;
+}
+
+.navItems,footer{
+    color: #3A7F93;
+}
+
+.button{
+  background-color: #F19C20;
+}
